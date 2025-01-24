@@ -1,5 +1,4 @@
-#  About Me:
-programming go brrr
+programming is epic
 
 
 #  Tech Stack:
