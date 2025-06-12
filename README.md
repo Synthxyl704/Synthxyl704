@@ -1,4 +1,4 @@
-<h2>16 year old university student who loves programming and rhythm games</h2>
+<h2>16 year old university student who loves programming and automates things using scripting</h2>
 
 <hr>
 
@@ -22,6 +22,12 @@
 # OS:
 - x86_64 Endeavour Arch Linux <br>
 - Dotfiles: ML4W configured + KDE Plasma 6 icon integrations + adw-gtk3-dark
+
+# Educational and interest(s) stuff:
+- 1st year CSE student
+- Computational mathematical programs
+- DSA theoreticals
+- Cant make and handle CMake files properly
 
 # Other stuff I probably should not include:
 - Arcaea: NC'd BYD 11, EX+ on BYD 9+
