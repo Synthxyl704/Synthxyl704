@@ -10,13 +10,14 @@
 - CSS3
 - will learn JS, Python, etc. for DC bots
 
+  <hr>
+
 # Cool looking stuff:
 ![](https://github-readme-stats.vercel.app/api?username=Synthxyl704&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Synthxyl704&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Synthxyl704&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Synthxyl704&icon=2&color=0)](https://visitcount.itsvg.in)
+<hr>
 
 # OS:
 x86_64 Endeavour Arch Linux
