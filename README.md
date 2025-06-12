@@ -20,5 +20,5 @@
 <hr>
 
 # OS:
-x86_64 Endeavour Arch Linux
-Dotfiles: ML4W configured + KDE Plasma 6 icon integrations + adw-gtk3-dark
+- x86_64 Endeavour Arch Linux <br>
+- Dotfiles: ML4W configured + KDE Plasma 6 icon integrations + adw-gtk3-dark
