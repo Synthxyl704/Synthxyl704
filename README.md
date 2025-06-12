@@ -22,3 +22,7 @@
 # OS:
 - x86_64 Endeavour Arch Linux <br>
 - Dotfiles: ML4W configured + KDE Plasma 6 icon integrations + adw-gtk3-dark
+
+# Other stuff I probably should not include:
+- Arcaea: NC'd BYD 11, EX+ on BYD 9+
+- Aim trainers: 4.72CPS | 14cm/360 | 800 DPI | speed + precision
