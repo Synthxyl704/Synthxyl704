@@ -3,7 +3,7 @@
 <hr>
 
 # Programming/scripting things:
-- C
+- Vanilla C
 - C++ (basic)
 - Nano bash scripting
 - HTML5
