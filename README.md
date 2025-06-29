@@ -26,8 +26,9 @@
 # Educational and interest(s) stuff:
 - 1st year CSE student
 - Computational mathematical programs
+- EOS Linux ricing
 - DSA theoreticals
-- Cant make and handle CMake files properly
+- Cant make or handle CMake files properly
 
 # Other stuff I probably should not include:
 - Arcaea: NC'd BYD 11, EX+ on BYD 9+
