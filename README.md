@@ -10,7 +10,9 @@
 - CSS3
 - will learn JS, Python, etc. for DC bots
 
-- ![Radar Chart](./Synthxyl704/Radar Chart.svg)
+<hr>
+
+ ![Radar Chart](./imgassets/RCHRT.svg)
 
 <hr>
 
