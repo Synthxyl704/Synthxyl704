@@ -12,7 +12,7 @@
 
 <hr>
 
- ![Radar Chart](./imgassets/RCHRT.svg)
+ ![Radar Chart](./imgassets/PrototypeX.svg)
 
 <hr>
 
