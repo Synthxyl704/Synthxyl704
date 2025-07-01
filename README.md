@@ -12,7 +12,7 @@
 
 <hr>
 
- ![Radar Chart](./imgassets/PrototypeX.svg)
+ <img src="assets/PrototypeX.svg" alt="Radar Chart" width="1085" height="362"/>
 
 <hr>
 
