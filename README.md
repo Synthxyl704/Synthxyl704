@@ -12,7 +12,7 @@
 
 <hr>
 
- <img src="assets/PrototypeX.svg" width="1500" height="500"/>
+ <img src="imgassets/PrototypeX.svg" width="1082" height="362"/>
 
 <hr>
 
