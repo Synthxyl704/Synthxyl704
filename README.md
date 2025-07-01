@@ -12,7 +12,7 @@
 
 <hr>
 
- <img src="assets/PrototypeX.svg" alt="Radar Chart" width="1085" height="362"/>
+ <img src="assets/PrototypeX.svg" width="1085" height="362"/>
 
 <hr>
 
