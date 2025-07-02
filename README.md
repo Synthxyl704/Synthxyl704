@@ -1,4 +1,4 @@
-<h2>16 year old university student who loves programming and automates things using scripting</h2>
+<h2>16 year old university student who loves programming and automates things using scripting</h2><br>
 
 # Programming/scripting things:
 - Vanilla C
