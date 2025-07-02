@@ -15,11 +15,8 @@
 
 # Educational and interest(s) stuff:
 - 1st year CSE student
-- Computational mathematical programs
-- EOS Linux ricing
-- DSA theoreticals
-- Cant make or handle CMake files properly
+- Linux
+- Compiler design
+- Automation
 
-# Other stuff I probably should not include:
-- Arcaea: NC'd BYD 11, EX+ on BYD 9+
-- Aim trainers: 4.72CPS | 14cm/360 | 800 DPI | speed + precision
+### 4.72CPS | 14cm/360 | 800 DPI | speed + precision
