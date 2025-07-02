@@ -19,4 +19,4 @@
 - Compiler design
 - Automation
 
-### 4.72CPS | 14cm/360 | 800 DPI | speed + precision
+### 5.37CPS | 14cm/360 | 800 DPI | speed + precision
