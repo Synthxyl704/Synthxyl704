@@ -1,14 +1,3 @@
-## 16 year old university student who loves programming and automates things using scripting
-<hr>
-
-# Programming/scripting things:
-- Vanilla C
-- C++ (basic)
-- Nano bash scripting
-- HTML5
-- CSS3
-- will learn JS, Python, etc. for DC bots
-
 <hr>
 
  <img src="imgassets/prototype1.svg" width="1029" height="343"/>
