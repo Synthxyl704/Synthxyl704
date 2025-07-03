@@ -5,7 +5,7 @@
 <hr>
 
 # Cool looking stuff:<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Synthxyl704&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Synthxyl704&theme=shadow_blue&hide_border=false) <br/>
 
 <hr>
 
