@@ -1,6 +1,6 @@
 <hr>
 
- <img src="imgassets/prototypeX.svg" width="1029" height="343"/>
+ <img src="imgassets/V_4X.png" width="1029" height="343"/>
 
 <hr>
 
