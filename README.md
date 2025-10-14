@@ -14,9 +14,9 @@
 - Dotfiles: ML4W configured + KDE Plasma 6 icon integrations + adw-gtk3-dark
 
 # Educational and interest(s) stuff:
-- 1st year CSE student
 - Linux
+- Application working
 - Compiler design
-- Automation
+- Computer architecture
 
 ### 5.37CPS | 14cm/360 | 800 DPI | speed + precision
