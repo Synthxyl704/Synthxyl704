@@ -19,4 +19,4 @@
 - Compiler design
 - Computer architecture
 
-### 5.37CPS | 14cm/360 | 800 DPI | speed + precision
+### 5.37CPS GRIDSHOT | 21cm/360 | [???] DPI | speed + precision
