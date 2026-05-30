@@ -1,22 +1,3 @@
-<hr>
-
- <img src="imgassets/V_X4.png" width="1029" height="343"/>
-
-<hr>
-
-# Cool looking stuff:<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Synthxyl704&theme=shadow_blue&hide_border=false) <br/>
-
-<hr>
-
-# OS:
-- x86_64 Endeavour (Arch) Linux <br>
-- Dotfiles: HyDE + KDE Plasma 6 icon integrations + adw-gtk3-dark
-
-# Educational and interest(s) stuff:
-- Linux
-- Application working
-- Compiler design
-- Computer architecture
-
-### 5.37CPS GRIDSHOT | 21cm/360 | [???] DPI | speed + precision
+Programming is how I get stuff done well. <br>
+Decent experience in [C++](https://github.com/Synthxyl704/IteraXive) and [Python](https://github.com/Synthxyl704/xTCP). <br>
+17y/o technology enthusiast in Maharashtra, India. <br>
